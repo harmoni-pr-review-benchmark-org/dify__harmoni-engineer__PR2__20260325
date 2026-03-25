@@ -219,7 +219,7 @@ vdb = [
     "qdrant-client==1.9.0",
     "intersystems-irispython>=5.1.0",
     "tablestore==6.3.7",
-    "tcvectordb~=1.6.4",
+    "tcvectordb~=2.0.0",
     "tidb-vector==0.0.9",
     "upstash-vector==0.6.0",
     "volcengine-compat~=1.0.0",

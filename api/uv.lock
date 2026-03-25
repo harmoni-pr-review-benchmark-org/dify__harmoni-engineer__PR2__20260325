@@ -1757,7 +1757,7 @@ vdb = [
     { name = "pyobvector", specifier = "~=0.2.17" },
     { name = "qdrant-client", specifier = "==1.9.0" },
     { name = "tablestore", specifier = "==6.3.7" },
-    { name = "tcvectordb", specifier = "~=1.6.4" },
+    { name = "tcvectordb", specifier = "~=2.0.0" },
     { name = "tidb-vector", specifier = "==0.0.9" },
     { name = "upstash-vector", specifier = "==0.6.0" },
     { name = "volcengine-compat", specifier = "~=1.0.0" },
@@ -6008,7 +6008,7 @@ sdist = { url = "https://files.pythonhosted.org/packages/20/81/be13f417065200182
 
 [[package]]
 name = "tcvectordb"
-version = "1.6.4"
+version = "2.0.0"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "cachetools" },
@@ -6021,9 +6021,9 @@ dependencies = [
     { name = "ujson" },
     { name = "urllib3" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/19/ec/c80579aff1539257aafcf8dc3f3c13630171f299d65b33b68440e166f27c/tcvectordb-1.6.4.tar.gz", hash = "sha256:6fb18e15ccc6744d5147e9bbd781f84df3d66112de7d9cc615878b3f72d3a29a", size = 75188, upload-time = "2025-03-05T09:14:19.925Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/16/21/3bcd466df20ac69408c0228b1c5e793cf3283085238d3ef5d352c556b6ad/tcvectordb-2.0.0.tar.gz", hash = "sha256:38c6ed17931b9bd702138941ca6cfe10b2b60301424ffa36b64a3c2686318941", size = 82209, upload-time = "2025-12-27T07:55:27.376Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/68/bf/f38d9f629324ecffca8fe934e8df47e1233a9021b0739447e59e9fb248f9/tcvectordb-1.6.4-py3-none-any.whl", hash = "sha256:06ef13e7edb4575b04615065fc90e1a28374e318ada305f3786629aec5c9318a", size = 88917, upload-time = "2025-03-05T09:14:17.494Z" },
+    { url = "https://files.pythonhosted.org/packages/af/10/e807b273348edef3b321194bc13b67d2cd4df64e22f0404b9e39082415c7/tcvectordb-2.0.0-py3-none-any.whl", hash = "sha256:1731d9c6c0d17a4199872747ddfb1dd3feb26f14ffe7a657f8a5ac3af4ddcdd1", size = 96256, upload-time = "2025-12-27T07:55:24.362Z" },
 ]
 
 [[package]]
